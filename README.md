@@ -27,14 +27,13 @@ To make legal education practical, accessible, and AI-driven, empowering the nex
 
 🧩 Tech Stack
 
-Frontend: Next.js / React / Tailwind CSS
+Frontend:  React.js
 
 Backend: Node.js 
 
-AI Layer: OpenAI / Gemini API Integration
+AI Layer: Gemini API Integration
 
-Authentication: Firebase / JWT
-
+Authentication: Firebase 
 
 📚 Ideal For
 
